@@ -30,6 +30,6 @@ Profile Views
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/cirkutry/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/BlazeX9/count.svg)
 
 </div>
