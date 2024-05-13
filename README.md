@@ -1,3 +1,5 @@
+<img align='right' src="https://www.freeiconspng.com/uploads/pikachu-transparent-29.gif" width="230">
+
 ### Namaste `🙏`
 
 ```fix
