@@ -10,7 +10,7 @@ transforming into useful utilities. Wish me luck ✨!
 ```
 
 ---
-[<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">](https://www.java.com/) [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">](https://www.javascript.com/) [<img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">](https://yaml.org/) [<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">](https://git-scm.com/) [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/) [<img src="https://skillicons.dev/icons?i=docker">](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=css,git,github">](https://skillicons.dev)
 
 #
 
