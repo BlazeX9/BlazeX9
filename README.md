@@ -10,7 +10,7 @@ transforming into useful utilities. Wish me luck ✨!
 ```
 
 ---
-[<img src="https://skillicons.dev/icons?i=java,mysql,html,php,js,angular,css,bootstrap,postman,git,github,idea,sublime,vscode,cloudflare">](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=java,mysql,html,php,js,angular,css,bootstrap,postman,git,github,idea,sublime,vscode,cloudflare">]
 
 #
 
